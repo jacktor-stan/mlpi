@@ -1,5 +1,5 @@
 Repository ini merupakan web pertama saya untuk belajar bahasa pemograman PHP
-Sistem CRUD dengan Login dan Register
+Sistem CRUD dengan Login dan Register,
 Project ini masih mengunnakan teknologi lama seperti PHP 7
 
 <img src="./images/mlpi.png" alt="MLPI">
